@@ -1,1 +1,1 @@
-![User Details](/User%20Details/src/utils/userdetails.png)
+![User Details](/User%20Details/userdetails.png)
