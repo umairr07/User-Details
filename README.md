@@ -1,1 +1,1 @@
-![User Details](/User%20Details/userdetails.png)
+![User Details](userdetails.png)
