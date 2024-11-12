@@ -3,197 +3,107 @@ const data = [
         "id": 1,
         "name": "Alice Johnson",
         "email": "alice.johnson@example.com",
-        "username": "alicej",
-        "age": 29,
         "city": "New York",
-        "country": "USA",
-        "occupation": "Software Engineer",
-        "phone": "123-456-7890",
-        "bio": "Passionate about technology and coding.",
-        "isActive": true
+        "occupation": "Software Engineer"
     },
     {
         "id": 2,
         "name": "Bob Smith",
         "email": "bob.smith@example.com",
-        "username": "bobsmith",
-        "age": 35,
         "city": "Los Angeles",
-        "country": "USA",
-        "occupation": "Graphic Designer",
-        "phone": "321-654-0987",
-        "bio": "Lover of visual arts and creative design.",
-        "isActive": false
+        "occupation": "Graphic Designer"
     },
     {
         "id": 3,
         "name": "Carol Lee",
         "email": "carol.lee@example.com",
-        "username": "carollee",
-        "age": 27,
         "city": "Chicago",
-        "country": "USA",
-        "occupation": "Data Analyst",
-        "phone": "234-567-8901",
-        "bio": "Enthusiast for data science and analysis.",
-        "isActive": true
+        "occupation": "Data Analyst"
     },
     {
         "id": 4,
         "name": "David Brown",
         "email": "david.brown@example.com",
-        "username": "davidbrown",
-        "age": 42,
         "city": "Houston",
-        "country": "USA",
-        "occupation": "Project Manager",
-        "phone": "456-789-0123",
-        "bio": "Experienced in managing tech projects.",
-        "isActive": false
+        "occupation": "Project Manager"
     },
     {
         "id": 5,
         "name": "Emma Davis",
         "email": "emma.davis@example.com",
-        "username": "emmadavis",
-        "age": 31,
         "city": "Miami",
-        "country": "USA",
-        "occupation": "Product Designer",
-        "phone": "567-890-1234",
-        "bio": "Designing products with user experience in mind.",
-        "isActive": true
+        "occupation": "Product Designer"
     },
     {
         "id": 6,
         "name": "Frank Wilson",
         "email": "frank.wilson@example.com",
-        "username": "frankwilson",
-        "age": 36,
         "city": "Phoenix",
-        "country": "USA",
-        "occupation": "Marketing Specialist",
-        "phone": "678-901-2345",
-        "bio": "Helping brands find their voice.",
-        "isActive": true
+        "occupation": "Marketing Specialist"
     },
     {
         "id": 7,
         "name": "Grace Clark",
         "email": "grace.clark@example.com",
-        "username": "graceclark",
-        "age": 26,
         "city": "Philadelphia",
-        "country": "USA",
-        "occupation": "Content Writer",
-        "phone": "789-012-3456",
-        "bio": "Crafting engaging content for all audiences.",
-        "isActive": true
+        "occupation": "Content Writer"
     },
     {
         "id": 8,
         "name": "Henry Lewis",
         "email": "henry.lewis@example.com",
-        "username": "henrylewis",
-        "age": 28,
         "city": "San Diego",
-        "country": "USA",
-        "occupation": "Sales Manager",
-        "phone": "890-123-4567",
-        "bio": "Building and leading sales teams.",
-        "isActive": false
+        "occupation": "Sales Manager"
     },
     {
         "id": 9,
         "name": "Ivy Martinez",
         "email": "ivy.martinez@example.com",
-        "username": "ivymartinez",
-        "age": 33,
         "city": "Dallas",
-        "country": "USA",
-        "occupation": "HR Specialist",
-        "phone": "901-234-5678",
-        "bio": "Connecting people with opportunities.",
-        "isActive": true
+        "occupation": "HR Specialist"
     },
     {
         "id": 10,
         "name": "Jack Miller",
         "email": "jack.miller@example.com",
-        "username": "jackmiller",
-        "age": 40,
         "city": "San Francisco",
-        "country": "USA",
-        "occupation": "Tech Lead",
-        "phone": "012-345-6789",
-        "bio": "Leading teams in tech innovation.",
-        "isActive": true
+        "occupation": "Tech Lead"
     },
     {
         "id": 11,
         "name": "Kelly Thompson",
         "email": "kelly.thompson@example.com",
-        "username": "kellythompson",
-        "age": 24,
         "city": "Austin",
-        "country": "USA",
-        "occupation": "UX Designer",
-        "phone": "123-456-7891",
-        "bio": "Focused on creating intuitive user experiences.",
-        "isActive": true
+        "occupation": "UX Designer"
     },
     {
         "id": 12,
         "name": "Liam Anderson",
         "email": "liam.anderson@example.com",
-        "username": "liamanderson",
-        "age": 38,
         "city": "Seattle",
-        "country": "USA",
-        "occupation": "Backend Developer",
-        "phone": "234-567-8902",
-        "bio": "Coding the infrastructure behind apps.",
-        "isActive": false
+        "occupation": "Backend Developer"
     },
     {
         "id": 13,
         "name": "Mia Robinson",
         "email": "mia.robinson@example.com",
-        "username": "miarobinson",
-        "age": 32,
         "city": "Boston",
-        "country": "USA",
-        "occupation": "Financial Analyst",
-        "phone": "345-678-9012",
-        "bio": "Analyzing trends in financial markets.",
-        "isActive": true
+        "occupation": "Financial Analyst"
     },
     {
         "id": 14,
         "name": "Noah White",
         "email": "noah.white@example.com",
-        "username": "noahwhite",
-        "age": 45,
         "city": "Denver",
-        "country": "USA",
-        "occupation": "Operations Manager",
-        "phone": "456-789-0124",
-        "bio": "Optimizing operations for efficiency.",
-        "isActive": false
+        "occupation": "Operations Manager"
     },
     {
         "id": 15,
         "name": "Olivia King",
         "email": "olivia.king@example.com",
-        "username": "oliviaking",
-        "age": 29,
         "city": "Las Vegas",
-        "country": "USA",
-        "occupation": "Digital Marketer",
-        "phone": "567-890-1235",
-        "bio": "Helping brands succeed online.",
-        "isActive": true
+        "occupation": "Digital Marketer"
     }
-]
+];
 
-export default data
+export default data;

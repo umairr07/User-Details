@@ -6,6 +6,17 @@ export default {
   ],
   theme: {
     extend: {},
+    colors: {
+      gray: {
+        400: "#A3AFC9"
+      },
+      white: {
+        400: "#ffff"
+      },
+      lightGray: {
+        400: "#E5E7EB"
+      }
+    },
     screens: {
       'sm': '375px',
       // => @media (min-width: 640px) { ... }
