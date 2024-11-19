@@ -7,14 +7,42 @@ export default {
   theme: {
     extend: {},
     colors: {
-      gray: {
-        400: "#A3AFC9"
-      },
       white: {
-        400: "#ffff"
+        400: "#fff"
+      },
+      black: {
+        400: "#00000033"
+      },
+      fullBlack: {
+        400: "#000"
+      },
+      gray: {
+        50: "#F9FAFB",
+        100: "#F3F4F6",
+        300: "#D1D5DB",
+        400: "#9CA3AF",
+        500: "#A9A6A1",
+        600: "#4B5563",
+        700: "#374151",
+        800: "#1F2937"
+      },
+      indigo: {
+        100: "#E0E7FF",
+        600: "#4F46E5"
+      },
+      blue: {
+        500: "#3B82F6",
+        600: "#2563EB"
+      },
+      red: {
+        500: "#EF4444",
+        600: "#DC2626"
       },
       lightGray: {
         400: "#E5E7EB"
+      },
+      green: {
+        400: "#22C55E"
       }
     },
     screens: {

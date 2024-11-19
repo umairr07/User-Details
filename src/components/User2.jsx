@@ -51,7 +51,7 @@ const User2 = () => {
         <div className="flex">
           <p className="lg:w-[20%] md:w-[18%] sm:w-[80px]">User Name</p>
           <p className="lg:w-[25%] md:w-[33%] sm:w-[130px]">Email</p>
-          <p className="lg:w-[20%] md:w-[23%] sm:w-[80px]">Occupation</p>
+          <p className="lg:w-[20%] md:w-[23%] sm:w-[80px]">Position</p>
           <p className="lg:w-[20%] md:w-[20%] sm:w-[100px]">City</p>
         </div>
       </div>
@@ -66,6 +66,11 @@ const User2 = () => {
                 key={data.id}
                 className="flex border-2 border-lightGray-400 p-3 mb-2 rounded-lg"
               >
+                <img
+                  src={data.profile}
+                  alt=""
+                  className="w-[40px] rounded-full "
+                />
                 <p className="lg:text-[16px] md:text-[14px] lg:w-[20%] md:w-[20%] sm:w-[120px] sm:text-[10px]">
                   {data.name}
                 </p>
